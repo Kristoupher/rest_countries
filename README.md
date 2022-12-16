@@ -1,4 +1,4 @@
-CREATE with @thomas370
+CREATE in collaboration with @thomas370
 
 # Getting Started with Create React App
 
